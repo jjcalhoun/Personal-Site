@@ -26,6 +26,7 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
   margin-bottom: 1.5em;
+  font-size: 150%;
 }
 
 p {
@@ -51,6 +52,7 @@ hr {
 .profile-description {
   width: 75%;
   margin: 3.125rem auto 3.125rem auto;
+  font-size: 1.5rem;
 }
 
 .skill-row {
