@@ -25,7 +25,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.5rem;
   font-size: 150%;
 }
 
@@ -121,7 +121,7 @@ hr {
 }
 
 .copyright {
-  font-size: .6em;
+  font-size: .7em;
   padding: 10px;
   color: #EAF6F6;
 }
@@ -145,6 +145,7 @@ hr {
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  margin: 5px;
 }
 
 .btn:hover {
